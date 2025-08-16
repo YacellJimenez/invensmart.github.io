@@ -1,5 +1,6 @@
 {
   "name": "rest-express",
+  "homepage" : "https://invensmart.github.io/",
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
